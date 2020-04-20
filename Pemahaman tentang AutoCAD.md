@@ -37,7 +37,7 @@ Program AutoCAD ini memiliki banyak perintah AutoCAD yang dapat digunakan untuk 
 
 >Yang kesemuanya dikhususkan sesuai dengan nama varian perangkat lunak tersebut, misalnya AutoCAD architectural yaitu perangkat yang hanya dikhususkan untuk Arsitek dalam mendesain suatu proyek arsitektural. Setiap variant memiliki fitur masing-masing yang dikhususkan untuk peruntukannya.
 
-###Varian student
+### Varian student
 Varian student merupakan versi produk AutoCAD diatas yang dikhususkan untuk digunakan para pelajar. Anda hanya perlu mendaftarkan diri sebagai pelajar untuk dapat memperolehnya. Terdapat pengurangan spesifikasi atau fitur asli serta batas waktu penggunaan untuk versi pelajar ini, karena memang varian ini dikhususkan untuk pembelajaran atau pengenalan kepada siswa untuk menjalankan program AutoCAD.
 
 # Kelebihan dan Kekurangan AutoCAD berdasarkan Pengalaman Pemakaian
